@@ -40,7 +40,7 @@ Research-Agent/
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd <cloned-location>/Research-Agent
+   cd Crew-AI-Projects/Research-Agent
    ```
 
 2. **Install Dependencies**
